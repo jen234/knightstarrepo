@@ -37,7 +37,7 @@ public class Score : MonoBehaviour
 
         if (scoreValue >= winningScore)
         {
-            SceneObjectGUIDManager.LoadScene("Winner");
+            SceneManager.LoadScene("Winner");
         }
     }
 }

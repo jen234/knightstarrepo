@@ -41,7 +41,7 @@ public class IP_TopDownCamera : MonoBehaviour
     //region Helper Methods
     protected virtual void HandleCamera()
     {
-        if (!m_Target)
+        if (!m_target)
         {
             return;
         }
