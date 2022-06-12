@@ -1193,7 +1193,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.03462088
+      value: 1.178
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
@@ -1264,7 +1264,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.8774462, y: 0.8774463, z: 1.2408963}
+  m_Size: {x: 1.39, y: 1.38, z: 1.61}
   m_Center: {x: -0.000000029802322, y: -0.000000014901165, z: 0}
 --- !u!114 &72424878
 MonoBehaviour:
@@ -1278,7 +1278,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ad7019c4d1ea724c8a73eead0bc66f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupValue: 1
+  pickupValue: 2
 --- !u!4 &72424879 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
@@ -4091,7 +4091,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.12
+      value: 2.56
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
@@ -4162,7 +4162,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.8774462, y: 0.8774463, z: 1.2408963}
+  m_Size: {x: 1.56, y: 1.39, z: 1.67}
   m_Center: {x: -0.000000029802322, y: -0.000000014901165, z: 0}
 --- !u!114 &212952972
 MonoBehaviour:
@@ -4176,7 +4176,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ad7019c4d1ea724c8a73eead0bc66f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupValue: 1
+  pickupValue: 2
 --- !u!4 &212952973 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
@@ -4945,7 +4945,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.34000003
+      value: 0.861
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
@@ -5016,7 +5016,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.8774462, y: 0.8774463, z: 1.2408963}
+  m_Size: {x: 1.23, y: 1.41, z: 1.6}
   m_Center: {x: -0.000000029802322, y: -0.000000014901165, z: 0}
 --- !u!114 &250543986
 MonoBehaviour:
@@ -5030,7 +5030,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ad7019c4d1ea724c8a73eead0bc66f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupValue: 1
+  pickupValue: 2
 --- !u!4 &250543987 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
@@ -5588,7 +5588,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.09738219
+      value: 0.958
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
@@ -5659,7 +5659,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.8774462, y: 0.8774463, z: 1.2408963}
+  m_Size: {x: 1.09, y: 1.27, z: 1.66}
   m_Center: {x: -0.000000029802322, y: -0.000000014901165, z: 0}
 --- !u!114 &279866563
 MonoBehaviour:
@@ -5673,7 +5673,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ad7019c4d1ea724c8a73eead0bc66f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupValue: 1
+  pickupValue: 2
 --- !u!4 &279866564 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
@@ -7360,17 +7360,34 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4697665007582986, guid: a367f32b0351f2648a0e15f3444c6f86, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.678
+      objectReference: {fileID: 0}
+    - target: {fileID: 4697665007582986, guid: a367f32b0351f2648a0e15f3444c6f86, type: 3}
       propertyPath: m_LocalPosition.z
       value: -0.007
       objectReference: {fileID: 0}
     - target: {fileID: 4826496051988656, guid: a367f32b0351f2648a0e15f3444c6f86, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.47
+      objectReference: {fileID: 0}
+    - target: {fileID: 4826496051988656, guid: a367f32b0351f2648a0e15f3444c6f86, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.122
+      value: -0.514
+      objectReference: {fileID: 0}
+    - target: {fileID: 4826496051988656, guid: a367f32b0351f2648a0e15f3444c6f86, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.02
       objectReference: {fileID: 0}
     - target: {fileID: 95152126842411956, guid: a367f32b0351f2648a0e15f3444c6f86,
         type: 3}
       propertyPath: m_Enabled
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 95152126842411956, guid: a367f32b0351f2648a0e15f3444c6f86,
+        type: 3}
+      propertyPath: m_UpdateMode
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 95152126842411956, guid: a367f32b0351f2648a0e15f3444c6f86,
         type: 3}
@@ -8588,7 +8605,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ad7019c4d1ea724c8a73eead0bc66f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupValue: 1
+  pickupValue: 5
 --- !u!4 &404955065 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
@@ -8796,7 +8813,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ad7019c4d1ea724c8a73eead0bc66f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupValue: 1
+  pickupValue: 5
 --- !u!4 &409535442 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
@@ -10965,6 +10982,7 @@ GameObject:
   - component: {fileID: 518295036}
   - component: {fileID: 518295038}
   - component: {fileID: 518295037}
+  - component: {fileID: 518295039}
   m_Layer: 5
   m_Name: Timer text
   m_TagString: Untagged
@@ -11033,6 +11051,20 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 518295035}
   m_CullTransparentMesh: 1
+--- !u!114 &518295039
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 518295035}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7ddb0b25235dcb64b826669dcbfc98a9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  timeValue: 90
+  timerText: {fileID: 518295037}
 --- !u!1 &522466492 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 125426, guid: 64cb684f38ab4e547a77225cd823cf62,
@@ -14195,7 +14227,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ad7019c4d1ea724c8a73eead0bc66f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupValue: 1
+  pickupValue: 5
 --- !u!4 &702133685 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
@@ -16888,7 +16920,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.8774462, y: 0.8774463, z: 1.2408963}
+  m_Size: {x: 1.22, y: 1.27, z: 1.66}
   m_Center: {x: -0.000000029802322, y: -0.000000014901165, z: 0}
 --- !u!114 &810906024
 MonoBehaviour:
@@ -16902,7 +16934,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ad7019c4d1ea724c8a73eead0bc66f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupValue: 1
+  pickupValue: 5
 --- !u!4 &810906025 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
@@ -24056,7 +24088,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.17999995
+      value: 0.564
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
@@ -24127,7 +24159,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.8774462, y: 0.8774463, z: 1.2408963}
+  m_Size: {x: 1.06, y: 1.04, z: 1.39}
   m_Center: {x: -0.000000029802322, y: -0.000000014901165, z: 0}
 --- !u!114 &1120241629
 MonoBehaviour:
@@ -24141,7 +24173,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ad7019c4d1ea724c8a73eead0bc66f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupValue: 1
+  pickupValue: 2
 --- !u!4 &1120241630 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
@@ -25618,7 +25650,7 @@ Rigidbody:
   m_Mass: 1
   m_Drag: 0.1
   m_AngularDrag: 0.05
-  m_UseGravity: 0
+  m_UseGravity: 1
   m_IsKinematic: 0
   m_Interpolate: 0
   m_Constraints: 116
@@ -25649,7 +25681,7 @@ BoxCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 1.35, y: 1.72, z: 2.14}
+  m_Size: {x: 1.44, y: 2.17, z: 2.14}
   m_Center: {x: -0.05, y: 0.92, z: 0}
 --- !u!1 &1222536206 stripped
 GameObject:
@@ -26225,7 +26257,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0
+      value: 0.9
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
@@ -26296,7 +26328,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.8774462, y: 0.8774463, z: 1.2408963}
+  m_Size: {x: 1.09, y: 1.13, z: 1.54}
   m_Center: {x: -0.000000029802322, y: -0.000000014901165, z: 0}
 --- !u!114 &1240435863
 MonoBehaviour:
@@ -26310,7 +26342,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ad7019c4d1ea724c8a73eead0bc66f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupValue: 1
+  pickupValue: 2
 --- !u!4 &1240435864 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
@@ -26562,6 +26594,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1261698522}
+  - component: {fileID: 1261698523}
   m_Layer: 0
   m_Name: Gems
   m_TagString: Untagged
@@ -26607,6 +26640,19 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1261698523
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1261698521}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ad7019c4d1ea724c8a73eead0bc66f4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  pickupValue: 2
 --- !u!1001 &1262510791
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -27414,7 +27460,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ad7019c4d1ea724c8a73eead0bc66f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupValue: 1
+  pickupValue: 5
 --- !u!4 &1283846584 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
@@ -29181,7 +29227,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.25
+      value: 0.78
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
@@ -29252,7 +29298,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.8774462, y: 0.8774463, z: 1.2408963}
+  m_Size: {x: 1.18, y: 1.2, z: 1.42}
   m_Center: {x: -0.000000029802322, y: -0.000000014901165, z: 0}
 --- !u!114 &1385916634
 MonoBehaviour:
@@ -29266,7 +29312,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ad7019c4d1ea724c8a73eead0bc66f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupValue: 1
+  pickupValue: 2
 --- !u!4 &1385916635 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
@@ -31253,7 +31299,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.8774462, y: 0.8774463, z: 1.2408963}
+  m_Size: {x: 1.31, y: 1.36, z: 1.72}
   m_Center: {x: -0.000000029802322, y: -0.000000014901165, z: 0}
 --- !u!114 &1444125111
 MonoBehaviour:
@@ -31267,7 +31313,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ad7019c4d1ea724c8a73eead0bc66f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupValue: 1
+  pickupValue: 2
 --- !u!4 &1444125112 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
@@ -31615,7 +31661,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.14999998
+      value: 0.912
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
@@ -31686,7 +31732,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.8774462, y: 0.8774463, z: 1.2408963}
+  m_Size: {x: 1.18, y: 1.15, z: 1.51}
   m_Center: {x: -0.000000029802322, y: -0.000000014901165, z: 0}
 --- !u!114 &1450237224
 MonoBehaviour:
@@ -31700,7 +31746,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ad7019c4d1ea724c8a73eead0bc66f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupValue: 1
+  pickupValue: 2
 --- !u!4 &1450237225 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
@@ -31991,7 +32037,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ad7019c4d1ea724c8a73eead0bc66f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupValue: 1
+  pickupValue: 5
 --- !u!4 &1467201341 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
@@ -33451,7 +33497,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ad7019c4d1ea724c8a73eead0bc66f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupValue: 1
+  pickupValue: 5
 --- !u!4 &1515870996 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
@@ -34924,7 +34970,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ad7019c4d1ea724c8a73eead0bc66f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupValue: 1
+  pickupValue: 5
 --- !u!4 &1599022781 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
@@ -36711,7 +36757,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.120000005
+      value: 0.631
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
@@ -36782,7 +36828,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.8774462, y: 0.8774463, z: 1.2408963}
+  m_Size: {x: 1.19, y: 1.19, z: 1.75}
   m_Center: {x: -0.000000029802322, y: -0.000000014901165, z: 0}
 --- !u!114 &1661318072
 MonoBehaviour:
@@ -36796,7 +36842,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ad7019c4d1ea724c8a73eead0bc66f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupValue: 1
+  pickupValue: 2
 --- !u!4 &1661318073 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
@@ -37410,7 +37456,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.25
+      value: 0.728
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
@@ -37481,7 +37527,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.8774462, y: 0.8774463, z: 1.2408963}
+  m_Size: {x: 1.4, y: 1.31, z: 1.58}
   m_Center: {x: -0.000000029802322, y: -0.000000014901165, z: 0}
 --- !u!114 &1683615617
 MonoBehaviour:
@@ -37495,7 +37541,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ad7019c4d1ea724c8a73eead0bc66f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupValue: 1
+  pickupValue: 2
 --- !u!4 &1683615618 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
@@ -38056,7 +38102,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ad7019c4d1ea724c8a73eead0bc66f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupValue: 1
+  pickupValue: 5
 --- !u!4 &1713981624 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
@@ -40240,7 +40286,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.07999998
+      value: 0.966
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
@@ -40311,7 +40357,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.8774462, y: 0.8774463, z: 1.2408963}
+  m_Size: {x: 1.36, y: 1.38, z: 1.66}
   m_Center: {x: -0.000000029802322, y: -0.000000014901165, z: 0}
 --- !u!114 &1806935162
 MonoBehaviour:
@@ -40325,7 +40371,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ad7019c4d1ea724c8a73eead0bc66f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupValue: 1
+  pickupValue: 2
 --- !u!4 &1806935163 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
@@ -41055,7 +41101,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.19
+      value: 0.564
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
@@ -41126,7 +41172,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.8774462, y: 0.8774463, z: 1.2408963}
+  m_Size: {x: 1.48, y: 1.3, z: 1.54}
   m_Center: {x: -0.000000029802322, y: -0.000000014901165, z: 0}
 --- !u!114 &1846833919
 MonoBehaviour:
@@ -41140,7 +41186,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ad7019c4d1ea724c8a73eead0bc66f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupValue: 1
+  pickupValue: 2
 --- !u!4 &1846833920 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
@@ -43839,7 +43885,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 2.703669
+      value: 2.54
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
@@ -43910,7 +43956,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.8774462, y: 0.8774463, z: 1.2408963}
+  m_Size: {x: 1.33, y: 1.29, z: 1.6}
   m_Center: {x: -0.000000029802322, y: -0.000000014901165, z: 0}
 --- !u!114 &1981824374
 MonoBehaviour:
@@ -43924,7 +43970,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ad7019c4d1ea724c8a73eead0bc66f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupValue: 1
+  pickupValue: 2
 --- !u!4 &1981824375 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
@@ -46148,7 +46194,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.7900001
+      value: 1.435
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
         type: 3}
@@ -46219,7 +46265,7 @@ BoxCollider:
   m_IsTrigger: 1
   m_Enabled: 1
   serializedVersion: 2
-  m_Size: {x: 0.8774462, y: 0.8774463, z: 1.2408963}
+  m_Size: {x: 1.22, y: 1.15, z: 1.91}
   m_Center: {x: -0.000000029802322, y: -0.000000014901165, z: 0}
 --- !u!114 &2094998350
 MonoBehaviour:
@@ -46233,7 +46279,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9ad7019c4d1ea724c8a73eead0bc66f4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  pickupValue: 1
+  pickupValue: 2
 --- !u!4 &2094998351 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 08ae30ac5a0789d43914c7c2ed377a76,
