@@ -24620,7 +24620,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreDisplay: {fileID: 1851409952}
-  shouldReset: 0
+  shouldReset: 1
   winningScore: 19
 --- !u!65 &1219153765
 BoxCollider:
